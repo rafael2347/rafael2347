@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Soy Rafa un progranador FrontEnd</h2>
+<h1 align="left">Hola 👋! Soy Rafa un progranador FrontEnd</h1>
 
 ###
 
@@ -15,6 +15,7 @@
 ###
 
 <div align="left">
+  <h2>Lenguajes usados</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -55,6 +56,7 @@
 ###
 
 <div align="left">
+  <h2>Medios de Comunicación</h2>
   <a href="https://www.youtube.com/channel/UCjsM9OMgiKoF0RMCXH_Jl5Q" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -76,6 +78,7 @@
 ###
 
 <div align="center">
+  <h2>Visitas</h2>
   <img src="https://profile-counter.glitch.me/rafael2347/count.svg?"  />
 </div>
 

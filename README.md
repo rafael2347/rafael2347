@@ -75,6 +75,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rafael2347/rafael2347/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rafael2347/count.svg?"  />
+</div>
 
 ###

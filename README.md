@@ -75,8 +75,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/rafael2347/rafael2347/output/snake.svg" alt="Snake animation" />
 
 ###
